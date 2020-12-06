@@ -1,0 +1,20 @@
+html {
+  background-color: #84F6B5;
+  font-family:"Arial";
+}
+h1, p {
+ font-weight: bold;
+ text-align: center;
+}
+.destacado {
+  font-family:"Verdana";
+  text-align: left;
+  }
+
+.tercera {
+  font-family:"Brush Script MT";
+  text-align: left;
+  font-size: 40px;
+}
+  
+  
